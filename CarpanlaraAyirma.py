@@ -1,4 +1,3 @@
-"""klavyeden girilen sayının çarpanlarını bulma"""
 print("******Çarpanlarına Ayırma*****")
 sayi=int(input("Enter a number:"))
 for i in range(sayi):
